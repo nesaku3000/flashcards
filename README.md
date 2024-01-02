@@ -1,6 +1,7 @@
 # flashcards
 flashcards in your terminal<br>
-> A python script to test your vocabulary skills!
+> A python script to test your vocabulary skills!<br>
+![image](https://github.com/nesaku3000/flashcards/assets/142937950/de8172b7-642e-4dd5-a65a-a093a4681b0a)
 ## usage
 1. put flashcards.py next to your list of words to learn
 2. install `termcolor` using `pip3 install termcolor`
