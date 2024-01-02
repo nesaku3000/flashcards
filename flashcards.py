@@ -8,7 +8,7 @@ c = [False]*n
 a = [0]*n
 corr = n
 while(corr):
-    if (c[i%n+1] == False):
+    if (c[i%n] == False):
         w = f[i%n+1]
         w = w.split(" @ ")
         print(w[1],end='')
